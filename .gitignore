@@ -1,0 +1,12 @@
+# Hasil kompilasi Java
+*.class
+
+# Folder editor/IDE
+.vscode/
+.idea/
+out/
+bin/
+
+# Berkas sementara
+*.log
+*.tmp

@@ -3,8 +3,8 @@
 **Nama:** Juanda Syahputra  
 **NIM:** 20250801067
 
-**Isi laporan:** Inheritance; Quiz Employee/Lecturer/Admin, Fruits/Apel/Mangga, dan Person/Mahasiswa/Dosen; 9 halaman.
+**Materi:** Inheritance (Quiz Employee, Fruits, dan Person); 9 halaman.
 
-**Nama file PDF:** `Laporan_PBO_Pertemuan_8_Juanda_Syahputra.pdf`
+📄 [Buka laporan PDF](./Laporan_PBO_Pertemuan_8_Juanda_Syahputra.pdf)
 
-> File PDF asli belum diunggah ke GitHub. Folder ini sementara memuat deskripsi dan siap menerima PDF.
+File PDF merupakan laporan praktikum asli yang diunggah, hanya dirapikan lokasi serta nama filenya.

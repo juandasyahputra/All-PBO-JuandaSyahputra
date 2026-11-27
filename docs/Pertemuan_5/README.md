@@ -3,8 +3,8 @@
 **Nama:** Juanda Syahputra  
 **NIM:** 20250801067
 
-**Isi laporan:** Sistem Barbershop Sederhana; method, parameter, Scanner, switch-case, perhitungan transaksi; 5 halaman.
+**Materi:** Sistem Barbershop Sederhana (method, parameter, Scanner, switch-case, dan perhitungan transaksi); 5 halaman.
 
-**Nama file PDF:** `Laporan_PBO_Pertemuan_5_Juanda_Syahputra.pdf`
+📄 [Buka laporan PDF](./Laporan_PBO_Pertemuan_5_Juanda_Syahputra.pdf)
 
-> File PDF asli belum diunggah ke GitHub. Folder ini sementara memuat deskripsi dan siap menerima PDF.
+File PDF merupakan laporan praktikum asli yang diunggah, hanya dirapikan lokasi serta nama filenya.

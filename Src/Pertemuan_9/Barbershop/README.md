@@ -1,4 +1,4 @@
-# Pertemuan 8–9: Hierarchical Inheritance
+# Pertemuan 9 — Barbershop (Hierarchical Inheritance)
 
 Project ini adalah pengembangan program Barbershop menggunakan konsep **Hierarchical Inheritance**, yaitu satu class induk memiliki lebih dari satu class anak.
 

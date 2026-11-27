@@ -1,3 +1,7 @@
-# Source Code Belum Diunggah
+# Pertemuan 9 — Hierarchical Inheritance
 
-Folder ini disiapkan untuk source code Java dari pertemuan terkait. Kode asli akan ditambahkan sesuai praktikum yang dikerjakan.
+Pada pertemuan ini, project Barbershop menerapkan **Hierarchical Inheritance**. Satu parent class `LayananBarber` diwarisi oleh dua child class, `PotongRambut` dan `PerawatanRambut`.
+
+📁 [Lihat source code Barbershop](./Barbershop/)
+
+Seluruh lima file Java tersedia dalam folder `Barbershop` dan tidak menggunakan `package`.

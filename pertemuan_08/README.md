@@ -24,7 +24,7 @@ Memahami pewarisan atribut dan method dari class induk ke class anak.
 
 ## Source Code
 
-Kode praktikum dapat dilihat di laporan. Folder [codingan](./codingan/) belum berisi file Java terpisah.
+[Kumpulan source code yang dipulihkan dari laporan Pertemuan 8](./codingan/). Source Java disusun kembali berdasarkan kode atau screenshot pada laporan; rincian dan catatan ada di README folder codingan.
 
 ## Materi Kuliah
 

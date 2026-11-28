@@ -24,7 +24,7 @@ Memahami apa yang terjadi pada variabel, method, dan objek saat program Java ber
 
 ## Source Code
 
-Kode praktikum dapat dilihat di laporan. Folder [codingan](./codingan/) belum berisi file Java terpisah.
+[Kumpulan source code yang dipulihkan dari laporan Pertemuan 7](./codingan/). Source Java disusun kembali berdasarkan kode atau screenshot pada laporan; rincian dan catatan ada di README folder codingan.
 
 ## Materi Kuliah
 

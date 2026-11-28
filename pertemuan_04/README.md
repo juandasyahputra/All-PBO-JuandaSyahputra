@@ -24,7 +24,7 @@ Menggunakan method agar program terbagi menjadi bagian yang lebih mudah dipahami
 
 ## Source Code
 
-Kode praktikum dapat dilihat di laporan. Folder [codingan](./codingan/) belum berisi file Java terpisah.
+[Kumpulan source code yang dipulihkan dari laporan Pertemuan 4](./codingan/). Source Java disusun kembali berdasarkan kode atau screenshot pada laporan; rincian dan catatan ada di README folder codingan.
 
 ## Materi Kuliah
 

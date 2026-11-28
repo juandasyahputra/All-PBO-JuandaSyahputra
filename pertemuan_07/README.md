@@ -1,7 +1,31 @@
-# Pertemuan 07 — Memory Management
+# Pertemuan 7 — Memory Management
 
-Praktikum PBO — Juanda Syahputra (20250801067).
+**Mata kuliah:** Pemrograman Berorientasi Objek (PBO)  
+**Nama:** Juanda Syahputra  
+**NIM:** 20250801067
 
-- [Codingan](./codingan/)
-- [Laporan Praktikum](./laprak/)
-- [Materi](./materi/)
+## Materi Pembelajaran
+
+- Call stack dan call frame
+- Simple variables dan parameter
+- Reference variables, heap, dan keyword `new`
+
+## Penerapan pada Praktikum
+
+Materi diterapkan pada project Barbershop yang sudah dibuat. Contohnya parameter `jumlah` pada method `hitungTotal()` serta objek `LayananBarber` dan `Pelanggan` yang dibuat dan digunakan melalui referensi.
+
+## Tujuan Pembelajaran
+
+Memahami apa yang terjadi pada variabel, method, dan objek saat program Java berjalan.
+
+## Laporan Praktikum
+
+📄 [Buka laporan Pertemuan 7 (PDF)](./laprak/Laporan_PBO_Pertemuan_7_Juanda_Syahputra.pdf)
+
+## Source Code
+
+Kode praktikum dapat dilihat di laporan. Folder [codingan](./codingan/) belum berisi file Java terpisah.
+
+## Materi Kuliah
+
+Folder [materi](./materi/) disiapkan untuk slide atau modul yang akan ditambahkan.
